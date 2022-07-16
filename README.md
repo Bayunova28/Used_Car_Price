@@ -18,4 +18,4 @@ prices vary with the independent variables. They can accordingly manipulate the 
 model will be a good way for management to understand the pricing dynamics of a new market.</p>
 
 ## Summary
-<img src="https://github.com/Bayunova28/Used_Car_Price/blob/master/linear_model.png" height="700" width="1000">
+<img src="https://github.com/Bayunova28/Used_Car_Price/blob/master/linear_model.png" height="600" width="1000">
