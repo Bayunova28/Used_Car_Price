@@ -3,6 +3,10 @@ title "Descriptive Statistics";
 proc means data=mydata.car_price mean median mode std var min max;
 run;
 
+proc univariate data=mydata.car_price;
+	var price;
+run;
+
 /* Check missing values */
 title "Missing of Numeric Values";
 proc means data=mydata.car_price nmiss;
