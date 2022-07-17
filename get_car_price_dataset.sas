@@ -10,7 +10,7 @@ proc import datafile=refile
 	getnames=yes;
 run;
 
-/* Show 5 rows ahead ofm dataset */
+/* Show 5 rows ahead of dataset */
 title "Car Price Dataset";
 proc print data=mydata.car_price(obs=5);
 run;
